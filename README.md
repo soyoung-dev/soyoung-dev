@@ -1,6 +1,6 @@
 ### 
 
-![header](https://capsule-render.vercel.app/api?type=slice&color=E3A6AE&height=300&section=header&text=Soyoung%20Lee&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=slice&color=E3A6AE&height=250&section=header&text=Soyoung%20Lee&fontSize=90&fontColor=5f5f5f)
 
 <h3 align="center">💗🤍 Tech 🤍💗</h3>
 <p align="center">
@@ -15,6 +15,8 @@
   <a href="mailto:star10147@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=kimhyein7110@gmail.com"/></a>
 </p>
 <br>
+
+![footer](https://capsule-render.vercel.app/api?type=slice&color=E3A6AE&height=250&section=footer&&fontSize=90)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=soyoung-dev&show_icons=true&theme=buefy)
 
