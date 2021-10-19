@@ -3,8 +3,6 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=E3A6AE&height=300&section=header&text=Soyoung%20Lee&fontSize=90)
 
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
-<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Kotlin&logoColor=white"/>
-
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=soyoung-dev&show_icons=true&theme=buefy)
 
