@@ -23,8 +23,6 @@
   
 ![footer](https://capsule-render.vercel.app/api?type=slice&color=E3A6AE&height=250&section=footer&&fontSize=90)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soyoung-dev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 
 <!--
 **soyoung-dev/soyoung-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
