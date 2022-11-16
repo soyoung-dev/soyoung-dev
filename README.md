@@ -12,7 +12,7 @@
   <h3 align="center"> 🌹 Me 🌹 </h3>
 <p align="center">
   <a href="https://velog.io/@soyoung-dev"><img src="https://img.shields.io/badge/블로그%20♡-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@hyeinisfree"/></a>&nbsp
-  <a href="mailto:star10147@gmail.com"><img src="https://img.shields.io/badge/star10147@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=star10147@gmail.com"/></a>
+  <a href="mailto:star10147@gmail.com"><img src="https://img.shields.io/badge/soyounglee.dev@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=star10147@gmail.com"/></a>
 </p>
 <br>
   
